@@ -1,4 +1,4 @@
-# TermSplit Plugin For Micro
+# IDE Plugin For Micro
 
 This plugin adds a keybinding `Alt-p` to open a smaller hsplit terminal pane.
 This reflects how vscode has a terminal shortcut like `Ctrl+Shift+,`.
