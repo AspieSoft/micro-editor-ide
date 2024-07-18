@@ -1,0 +1,12 @@
+[{
+  "Name": "termsplit",
+  "Description": "A keybinding to open a small terminal pane with hsplit",
+  "Tags": ["termsplit", "terminal", "cmd"],
+  "Website": "https://github.com/AspieSoft/micro-editor-plugin-termsplit",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "Url": "https://github.com/AspieSoft/micro-editor-plugin-termsplit/archive/v1.0.0.zip"
+    }
+  ]
+}]
